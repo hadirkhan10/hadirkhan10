@@ -1,7 +1,7 @@
 ### Great to see you 👋
-- 🔭 I’m currently working on a research of open source RISC-V based processors
-- 🌱 I’m currently learning an awesome domain of Scala and Chisel for hardware construction in high level programming
-- 📫 How to reach me: mhkhan@uit.edu
+-  Currently involved in VLSI-DA group at UC Santa Cruz
+-  Working on Chisel based hardware designs and VLSI design automation
+-  How to reach me: mkhan33@ucsc.edu
 <!--
 **hadirkhan10/hadirkhan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
