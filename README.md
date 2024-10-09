@@ -1,6 +1,6 @@
 ### Great to see you 👋
 -  Currently involved in VLSI-DA group at UC Santa Cruz
--  Working on Chisel based hardware designs and VLSI design automation
+-  Working on Graph Neural Networks and VLSI Design and Automation
 -  How to reach me: mkhan33@ucsc.edu
 <!--
 **hadirkhan10/hadirkhan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
